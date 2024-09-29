@@ -1,0 +1,6 @@
+[submodule "Machine_learning/charecter_extraction"]
+	path = Machine_learning/charecter_extraction
+	url = https://github.com/hemanthek73/saka_task2.git
+[submodule "imageSuffel"]
+	path = imageSuffel
+	url = https://github.com/hemanthek73/saka_task2.git
